@@ -1,0 +1,3 @@
+- data/            Per-system MD analysis results (RMSD, RMSF, Rg, SASA, etc.)
+- msm/             Markov state model input/output matrices (feature matrices)
+- tica/            TICA projections (feature matrices)
